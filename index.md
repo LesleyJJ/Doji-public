@@ -2,6 +2,10 @@
 
 A custom MetaTrader 5 indicator that identifies and marks Doji candlestick patterns on price charts. Doji candles are important reversal signals in technical analysis, representing market indecision.
 
+![SMC Indicator Screenshot 1](image_1.png)
+
+![SMC Indicator Screenshot 2](image_2.png)
+
 ## Overview
 
 The Doji indicator automatically scans historical price data to identify Doji candlestick patterns and marks them with blue dots on the chart. A Doji candle is characterized by having a very small body relative to its total range, indicating that the opening and closing prices are nearly equal.
